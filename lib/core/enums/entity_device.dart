@@ -1,0 +1,1 @@
+enum EntityDevice {parking, lamp, trash}
